@@ -1,22 +1,22 @@
-0/_s1nf-ly$@"
+           :%s/\^A/\="\<C-A>"/g|%s/\^X/\="\<C-X>"/g|%s/\^R/\="\<C-R>"/g|%s/\^M/\n/g|06
+           0f-ly$@"
+                                   ### launch with gg2yy@" ###
+                                   ###### @xoreaxeaxeax ######
 
-                                   ### launch with ggyy@" ###
-                                   ###### xoreaxeaxeax ######
-
-_c:        _s1-gg0mh`h/_tnjmt`h/_pnjmp`h/_onjmo`h/_injmi`h/_s2nf-ly$@"njmt_j
-           _s2-`h/_anjma`h/_cnf:mc`h/_fnf_mf`h/_bnf_mb`pyl`c/_\V"f-ly2tX@"
-            z_>-`twmt`p mpyl`c/_\V"f-ly2tX@"Xs_<-`tbmt`p mpyl`c/_\V"f-ly2tX@"X
-           _f:_0x:-`p% mpyl`c/_\V"f-ly2tX@"Xa_nx:-`p mpyl`c/_\V"f-ly2tX@"Xmpyl
-           _b:_0x:-`p mpyl`c/_\V"f-ly2tX@"Xm_nx:-`p% mpyl`c/_\V"f-ly2tX@"Xly2t
-           _+-`t`p mpyl`c/_\V"f-ly2tX@"Xo_--`t`p mpyl`c/_\V"f-ly2tX@"X_/--
-           _]-`tyt `b/\("\|n\)xf-ly2tX@"Xd_[-`tyt `f/\("\|n\)xf-ly2tX@"X^$0x:-
-           _v.$7yy_.-`tyw`a/_\("\|uuu\)ellyl`op$mo`p mpyl`c/_\V"f-ly2tX@"Xelly
-           _$`p mpy`pyl`a_,-`iy  mi`a/ "_T_ye`tvt p`p mpyl`c/_\V"f-ly2tX@"X_#- 
+_c:        _s1-gg0mh`h/_t^Mnjmt`h/_p^Mnjmp`h/_o^Mnjmo`h/_i^Mnjmi`h/_s2^Mnf-ly$@"njmt_j
+           _s2-`h/_a^Mnjma`h/_c^Mnf:mc`h/_f^Mnf_mf`h/_b^Mnf_mb`pyl`c/_\V^R"^Mf-ly2tX@"
+            z_>-`twmt`p mpyl`c/_\V^R"^Mf-ly2tX@"Xs_<-`tbmt`p mpyl`c/_\V^R"^Mf-ly2tX@"X
+           _f:_0x:-`p% mpyl`c/_\V^R"^Mf-ly2tX@"Xa_nx:-`p mpyl`c/_\V^R"^Mf-ly2tX@"Xmpyl
+           _b:_0x:-`p mpyl`c/_\V^R"^Mf-ly2tX@"Xm_nx:-`p% mpyl`c/_\V^R"^Mf-ly2tX@"Xly2t
+           _+-`t^A`p mpyl`c/_\V^R"^Mf-ly2tX@"Xo_--`t^X`p mpyl`c/_\V^R"^Mf-ly2tX@"X_/--
+           _]-`tyt `b/\(^R"\|n\)x^Mf-ly2tX@"Xd_[-`tyt `f/\(^R"\|n\)x^Mf-ly2tX@"X^$0x:-
+           _v.$7yy_.-`tyw`a/_\(^R"\|uuu\)^Mellyl`op$mo`p mpyl`c/_\V^R"^Mf-ly2tX@"Xelly
+           _$`p mpy`pyl`a_,-`iy  mi`a/ ^R"_^MT_ye`tvt p`p mpyl`c/_\V^R"^Mf-ly2tX@"X_#- 
 _o:
 
 
 _i:
-100
+100^M
 
 _t:
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -25,7 +25,7 @@ _t:
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 
 _a:
-___0 .___1 .___2 .___3 .___4 .___5 .___6 .___7 .___8 .___9 .__10 _11 .__12 .__13 .__14 .__15 ._
+___0 .___1 .___2 .___3 .___4 .___5 .___6 .___7 .___8 .___9 .__10 ^M_11 .__12 .__13 .__14 .__15 ._
 __16 .__17 .__18 .__19 .__20 .__21 .__22 .__23 .__24 .__25 .__26 .__27 .__28 .__29 .__30 .__31 ._
 __32  __33 !__34 "__35 #__36 $__37 %__38 &__39 '__40 (__41 )__42 *__43 +__44 ,__45 -__46 .__47 /_
 __48 0__49 1__50 2__51 3__52 4__53 5__54 6__55 7__56 8__57 9__58 :__59 ;__60 <__61 =__62 >__63 ?_

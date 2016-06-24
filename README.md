@@ -14,7 +14,7 @@ a brainf@!# interperter with vanilla vi commands.
 
 to use the interpreter, open the file [vimmmex](vimmmex) in vanilla vim.  if
 possible, reduce the font size so that the entire file fits on the screen - this
-will make observing execution easier.  press ggyy@" to launch the interpreter.
+will make observing execution easier.  press gg2yy@" to launch the interpreter.
 the default BF program calculates prime numbers, up to 100.  the numbers will
 appear on the output line (below "_o:") as they are calculated.  calculations
 are performed by copying and pasting characters while moving about the file
@@ -32,10 +32,10 @@ through searches and cursor movement keys.
 
 ### Versions
 
-the [vimmmex](vimmmex) file contains vim special characters, such as ^M and ^R.
-[vimmmex_ascii](vimmmex_ascii) provides a pure-ascii version of the interpreter,
-in which special characters are inserted by the execution process itself.  this
-may be more conducive for copying and pasting the contents of the file.
+the [vimmmex_raw](vimmmex_raw) file contains vim special characters, such as ^M
+and ^R.  [vimmmex](vimmmex) provides a pure-ascii version of the interpreter, in
+which special characters are inserted by the execution process itself.  this may
+be more conducive for copying and pasting the contents of the file.
 
 ### Limitations
 
