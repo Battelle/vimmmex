@@ -32,10 +32,12 @@ through searches and cursor movement keys.
 
 ### Versions
 
-the [vimmmex_raw](vimmmex_raw) file contains vim special characters, such as ^M
-and ^R.  [vimmmex](vimmmex) provides a pure-ascii version of the interpreter, in
-which special characters are inserted by the execution process itself.  this may
-be more conducive for copying and pasting the contents of the file.
+the [vimmmex_raw](vimmmex_raw) file contains (non-ascii) vim special characters,
+such as ^M and ^R.  [vimmmex](vimmmex) provides a pure-ascii version of the
+interpreter, in which special characters are inserted by the execution process
+itself, but uses an (ideally forbidden) vim "ex" command (the first line) to
+perform the substitution.  this may be more conducive for copying and pasting
+the contents of the file.
 
 ### Limitations
 
