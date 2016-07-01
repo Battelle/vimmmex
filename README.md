@@ -46,3 +46,7 @@ the only non-vi compatible requirement is that "whichwrap" is set to at least
 "nocompatible" is set.  this requirement is only in place for aesthetics, as it
 allows breaking one long line into several smaller lines.
 
+### Author
+
+_vimmmex_ is a proof-of-concept from Christopher Domas
+([@xoreaxeaxeax](https://twitter.com/xoreaxeaxeax)).
